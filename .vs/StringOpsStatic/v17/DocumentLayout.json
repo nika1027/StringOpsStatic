@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u0412\u0435\u0440\u043E\u043D\u0438\u043A\u0430\\source\\repos\\StringOpsStatic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC632364-FAB8-4332-A7F6-B41097F26AD1}|StringOpsStatic\\StringOpsStatic.vcxproj|C:\\Users\\\u0412\u0435\u0440\u043E\u043D\u0438\u043A\u0430\\source\\repos\\StringOpsStatic\\StringOpsStatic\\StringOpsTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC632364-FAB8-4332-A7F6-B41097F26AD1}|StringOpsStatic\\StringOpsStatic.vcxproj|solutionrelative:StringOpsStatic\\StringOpsTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC632364-FAB8-4332-A7F6-B41097F26AD1}|StringOpsStatic\\StringOpsStatic.vcxproj|C:\\Users\\\u0412\u0435\u0440\u043E\u043D\u0438\u043A\u0430\\source\\repos\\StringOpsStatic\\StringOpsStatic\\StringOpsStatic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FC632364-FAB8-4332-A7F6-B41097F26AD1}|StringOpsStatic\\StringOpsStatic.vcxproj|solutionrelative:StringOpsStatic\\StringOpsStatic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "StringOpsTests.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u043E\u043D\u0438\u043A\u0430\\source\\repos\\StringOpsStatic\\StringOpsStatic\\StringOpsTests.cpp",
+              "RelativeDocumentMoniker": "StringOpsStatic\\StringOpsTests.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u043E\u043D\u0438\u043A\u0430\\source\\repos\\StringOpsStatic\\StringOpsStatic\\StringOpsTests.cpp",
+              "RelativeToolTip": "StringOpsStatic\\StringOpsTests.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-17T19:53:59.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StringOps.h",
               "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u043E\u043D\u0438\u043A\u0430\\source\\repos\\StringOpsStatic\\StringOpsStatic\\StringOps.h",
               "RelativeDocumentMoniker": "StringOpsStatic\\StringOps.h",
@@ -34,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StringOpsStatic.cpp",
               "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u043E\u043D\u0438\u043A\u0430\\source\\repos\\StringOpsStatic\\StringOpsStatic\\StringOpsStatic.cpp",
               "RelativeDocumentMoniker": "StringOpsStatic\\StringOpsStatic.cpp",
