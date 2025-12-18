@@ -15,7 +15,11 @@ namespace StringOps {
 
     // Подсчёт гласных и согласных
     std::pair<int, int> countVowelsAndConsonants(const std::string& str);
+    // Сумма элементов массива
+    int sum(const int* arr, int size);
 
+    // Максимальный элемент массива
+    int max(const int* arr, int size);
 }
 
 #endif // STRINGOPS_H
